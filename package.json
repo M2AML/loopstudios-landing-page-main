@@ -1,0 +1,15 @@
+{
+  "name": "loopstudios-landing-page-main",
+  "version": "1.0.0",
+  "description": "![Design preview for the Loopstudios landing page coding challenge](./design/desktop-preview.jpg)",
+  "main": "index.js",
+  "scripts": {
+    "sass": "sass --watch sass/style.scss style.css"
+  },
+  "author": "",
+  "license": "ISC",
+  "keywords": [],
+  "devDependencies": {
+    "sass": "^1.42.1"
+  }
+}
