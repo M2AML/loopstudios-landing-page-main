@@ -4,8 +4,8 @@ const hamburgerButton = document.getElementById("hamburger");
 const closeButton = document.getElementById("close");
 const navMobileBG = document.querySelector(".nav__mobile_bg");
 const navLinkMobile = document.querySelectorAll(".nav-mobile");
-let timeAnim = 60;
-let timeAnimReverse = 40;
+let timeAnim = 100;
+let timeAnimReverse = 30;
 let i = 0;
 let k = 4;
 //FUCNTIONS
